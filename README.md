@@ -1,6 +1,6 @@
 ﻿# FF7-box-UI-css
  
- Dialog box with text in css, of FF7 game Playstation 1
+ Dialog box with text in css, of FF7 game Playstation 1 
   
  https://cristianosword.github.io/FF7-box-UI-css/
 
